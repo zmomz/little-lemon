@@ -1,7 +1,3 @@
-Here's a reformatted, cleaner version of the README that you can customize and make your own:
-
----
-
 # 🍋 Little Lemon Restaurant API
 
 > **Meta Back-End Developer Capstone Project**  
